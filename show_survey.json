@@ -7,9 +7,16 @@
                     "answers": [
                         {
                             "id": "测试内容0e59",
-                            "label": "测试内容ok3s",
+                            "label": "A",
                             "percent_votes": 26647,
                             "text": "aaaaaaaaaa",
+                            "total_votes": 52340
+                        },
+                        {
+                            "id": "测试内容0e59",
+                            "label": "B",
+                            "percent_votes": 26647,
+                            "text": "bbbbbbbbbb",
                             "total_votes": 52340
                         }
                     ],
@@ -20,9 +27,16 @@
                     "answers": [
                         {
                             "id": "测试内容0e59",
-                            "label": "测试内容ok3s",
+                            "label": "C",
                             "percent_votes": 26647,
-                            "text": "bbbbbbbbbbbbbbbbbbb",
+                            "text": "ccccccccccccc",
+                            "total_votes": 52340
+                        },
+                        {
+                            "id": "测试内容0e59",
+                            "label": "D",
+                            "percent_votes": 26647,
+                            "text": "ddddddddddddd",
                             "total_votes": 52340
                         }
                     ],
