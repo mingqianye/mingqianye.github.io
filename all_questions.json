@@ -1,0 +1,27 @@
+{
+    "data": {
+        "surveys": [
+            {
+                "id": "测试内容32d4",
+                "questions": [
+                    {
+                        "id": "测试内容oh1h",
+                        "text": "测试内容8u96"
+                    }
+                ],
+                "text": "测试内容wrlv",
+                "updated_at": "测试内容m1ti",
+                "user_info": {
+                    "avatar_url": "测试内容bslq",
+                    "city": "测试内容7635",
+                    "country": "测试内容nw31",
+                    "gender": 72040,
+                    "nick_name": "测试内容9ia7",
+                    "open_id": "测试内容c35w",
+                    "province": "测试内容4022"
+                }
+            }
+        ]
+    },
+    "status": "测试内容848q"
+}
