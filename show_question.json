@@ -1,20 +1,34 @@
 {
     "data": {
-        "question": {
-            "answers": [
+        "survey": {
+            "id": "测试内容3gya",
+            "questions": [
                 {
-                    "id": "测试内容8p54",
-                    "label": "测试内容6i1e",
-                    "percentage_votes": 31076,
-                    "text": "测试内容8667",
-                    "total_votes": 15017
+                    "answers": [
+                        {
+                            "id": "测试内容0e59",
+                            "label": "测试内容ok3s",
+                            "percent_votes": 26647,
+                            "text": "测试内容5ifx",
+                            "total_votes": 52340
+                        }
+                    ],
+                    "id": "测试内容0atd",
+                    "text": "测试内容4nxa"
                 }
             ],
-            "text": "测试内容16m5",
-            "updated_at": "测试内容9f3y",
-            "user_avatar_url": "测试内容5648",
-            "user_nickname": "测试内容bmi2"
+            "text": "测试内容27b2",
+            "updated_at": "测试内容w8j2",
+            "user_info": {
+                "avatar_url": "测试内容j39h",
+                "city": "测试内容k3bl",
+                "country": "测试内容952h",
+                "gender": 26628,
+                "nick_name": "测试内容pl66",
+                "open_id": "测试内容360n",
+                "province": "测试内容w1sq"
+            }
         }
     },
-    "status": "测试内容ut8x"
+    "status": "测试内容15yx"
 }
