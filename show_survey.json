@@ -1,50 +1,50 @@
 {
     "data": {
         "survey": {
-            "id": "测试内容3gya",
+            "id": "s0001",
             "questions": [
                 {
                     "answers": [
                         {
-                            "id": "a2345",
+                            "id": "a0001",
                             "label": "A",
-                            "percent_votes": 26647,
-                            "text": "aaaaaaaaaa",
+                            "percent_votes": 23.5%,
+                            "text": "王宝强，因为治家无方。",
                             "total_votes": 52340
                         },
                         {
-                            "id": "a1234",
+                            "id": "a0002",
                             "label": "B",
-                            "percent_votes": 26647,
-                            "text": "bbbbbbbbbb",
-                            "total_votes": 52340
+                            "percent_votes": 44.2%,
+                            "text": "马蓉，太淫荡。",
+                            "total_votes": 102748
                         }
                     ],
-                    "id": "q123",
-                    "text": "测试内容4nxa"
+                    "id": "q0001",
+                    "text": "在这次危机中，谁更值得大众同情，谁最应该被骂？为什么呢？"
                 },
                 {
                     "answers": [
                         {
-                            "id": "a0001",
+                            "id": "a0003",
                             "label": "C",
-                            "percent_votes": 26647,
-                            "text": "ccccccccccccc",
-                            "total_votes": 52340
+                            "percent_votes": 72%,
+                            "text": "中国",
+                            "total_votes": 39702
                         },
                         {
-                            "id": "a00002",
+                            "id": "a0004",
                             "label": "D",
-                            "percent_votes": 26647,
-                            "text": "ddddddddddddd",
-                            "total_votes": 52340
+                            "percent_votes": 28%,
+                            "text": "叙利亚",
+                            "total_votes": 10262
                         }
                     ],
-                    "id": "q124",
-                    "text": "测试内容4nxa"
+                    "id": "q0002",
+                    "text": "中国对叙利亚g谁会赢"
                 }
             ],
-            "text": "测试内容27b2",
+            "text": "你认为王宝强和马蓉谁更惨？",
             "updated_at": "测试内容w8j2",
             "user_info": {
                 "avatar_url": "测试内容j39h",
