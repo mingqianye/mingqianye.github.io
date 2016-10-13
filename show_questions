@@ -1,0 +1,61 @@
+{
+    "data": {
+        "survey": {
+            "id": "测试内容3gya",
+            "questions": [
+                {
+                    "answers": [
+                        {
+                            "id": "a2345",
+                            "label": "A",
+                            "percent_votes": 26647,
+                            "text": "aaaaaaaaaa",
+                            "total_votes": 52340
+                        },
+                        {
+                            "id": "a1234",
+                            "label": "B",
+                            "percent_votes": 26647,
+                            "text": "bbbbbbbbbb",
+                            "total_votes": 52340
+                        }
+                    ],
+                    "id": "q123",
+                    "text": "测试内容4nxa"
+                },
+                {
+                    "answers": [
+                        {
+                            "id": "a0001",
+                            "label": "C",
+                            "percent_votes": 26647,
+                            "text": "ccccccccccccc",
+                            "total_votes": 52340
+                        },
+                        {
+                            "id": "a00002",
+                            "label": "D",
+                            "percent_votes": 26647,
+                            "text": "ddddddddddddd",
+                            "total_votes": 52340
+                        }
+                    ],
+                    "id": "q124",
+                    "text": "测试内容4nxa"
+                }
+            ],
+            "text": "测试内容27b2",
+            "updated_at": "测试内容w8j2",
+            "user_info": {
+                "avatar_url": "测试内容j39h",
+                "city": "测试内容k3bl",
+                "country": "测试内容952h",
+                "gender": 26628,
+                "nick_name": "测试内容pl66",
+                "open_id": "测试内容360n",
+                "province": "测试内容w1sq"
+            }
+        }
+    },
+    "status": "测试内容15yx"
+}
